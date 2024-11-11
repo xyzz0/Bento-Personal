@@ -65,9 +65,9 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Todoist',
+			name: 'Portal',
 			icon: 'trello',
-			link: 'https://todoist.com',
+			link: 'https://portaldelestudiante.universidadeuropea.es',
 		},
 		{
 			id: '4',
