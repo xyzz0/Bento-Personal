@@ -66,14 +66,14 @@ const CONFIG = {
 		{
 			id: '3',
 			name: 'Portal',
-			icon: 'trello',
+			icon: 'graduation-cap',
 			link: 'https://portaldelestudiante.universidadeuropea.es',
 		},
 		{
 			id: '4',
-			name: 'Calendar',
-			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			name: 'AI',
+			icon: 'bot',
+			link: 'https://chatgpt.com',
 		},
 		{
 			id: '5',
@@ -135,46 +135,46 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'music',
+			icon: 'code',
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: '',
+					link: '',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: '',
+					link: '',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: '',
+					link: '',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: '',
+					link: '',
 				},
 			],
 		},
 		{
-			icon: 'coffee',
+			icon: 'library-big',
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: '',
+					link: '',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: '',
+					link: '',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: '',
+					link: '',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: '',
+					link: '',
 				},
 			],
 		},
