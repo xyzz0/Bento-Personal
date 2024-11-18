@@ -23,7 +23,7 @@ const CONFIG = {
 	greetingNight: 'Go to Sleep!',
 
 	// Layout
-	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
+	bentoLayout: 'lists', // 'bento', 'lists', 'buttons'
 
 	// Weather
 	weatherKey: 'InsertYourAPIKeyHere123456', // Write here your API Key
@@ -139,20 +139,20 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: '',
-					link: '',
+					name: 'HTB',
+					link: 'https://app.hackthebox.com/home',
 				},
 				{
-					name: '',
-					link: '',
+					name: 'TryHackMe',
+					link: 'https://tryhackme.com/r/dashboard',
 				},
 				{
-					name: '',
-					link: '',
+					name: 'PicoCTF',
+					link: 'https://play.picoctf.org/practice',
 				},
 				{
-					name: '',
-					link: '',
+					name: 'Hackerrank',
+					link: 'https://www.hackerrank.com/dashboard',
 				},
 			],
 		},
@@ -161,12 +161,12 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: '',
-					link: '',
+					name: 'Portal',
+					link: 'https://portaldelestudiante.universidadeuropea.es',
 				},
 				{
-					name: '',
-					link: '',
+					name: 'AI',
+					link: 'https://chatgpt.com',
 				},
 				{
 					name: '',
