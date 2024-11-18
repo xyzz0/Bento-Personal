@@ -169,12 +169,12 @@ const CONFIG = {
 					link: 'https://chatgpt.com',
 				},
 				{
-					name: '',
-					link: '',
+					name: 'Diagrams',
+					link: 'https://excalidraw.com/',
 				},
 				{
-					name: '',
-					link: '',
+					name: 'Mail',
+					link: 'https://mail.protonmail.com/',
 				},
 			],
 		},
